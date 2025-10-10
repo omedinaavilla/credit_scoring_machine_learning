@@ -1,0 +1,30 @@
+# _config.yml
+
+title: "Scoring Crediticio - GiveMeSomeCredit"
+author: "Andrés España | Omar Medina"
+logo: "Recursos/minisources/UninorteLogo.png"
+favicon: "Recursos/minisources/flavicon.jpg"
+description: "Proyecto de scoring crediticio usando Machine Learning."
+
+execute:
+  execute_notebooks: "off"  # Evita reejecutar notebooks al construir el sitio
+
+html:
+  favicon: "Recursos/minisources/flavicon.jpg"
+  use_repository_button: true
+  use_edit_page_button: false
+  use_issues_button: true
+  baseurl: ""
+  extra_navbar: "<b>Proyecto Final - Machine Learning</b>"
+  extra_footer: "© 2025 Andrés España | Universidad del Norte"
+  home_page_in_navbar: true
+
+repository:
+  url: "https://github.com/MrSpain2104/credit_scoring_machine_learning"
+  branch: "main"
+  path_to_book: ""  # raíz del repo
+
+sphinx:
+  config:
+    language: es
+    html_show_copyright: false

@@ -1,0 +1,18 @@
+format: jb-book
+root: notebooks/01_introduction
+
+chapters:
+  - file: notebooks/02_eda
+    title: "Análisis Exploratorio de Datos (EDA)"
+  - file: notebooks/03_modelado_benchmark
+    title: "Modelado Benchmark"
+  - file: notebooks/04_balanceo_clases
+    title: "Balanceo de Clases"
+  - file: notebooks/05_optimizacion_computacional
+    title: "Optimización Computacional"
+  - file: notebooks/06_tuning_hiperparametros
+    title: "Tuning de Hiperparámetros"
+  - file: notebooks/07_evalucaion_modelos
+    title: "Evaluación del Modelo"
+  - file: notebooks/08_conclusion_recomendacion_final
+    title: "Conclusión y Recomendaciones Finales"
