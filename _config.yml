@@ -28,3 +28,14 @@ sphinx:
   config:
     language: es
     html_show_copyright: false
+
+parse:
+  myst_enable_extensions:
+    - colon_fence
+    - deflist
+    - dollarmath
+    - html_admonition
+    - html_image
+    - linkify
+    - substitution
+    - tasklist
