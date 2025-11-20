@@ -11,3 +11,4 @@ Estructura inicial del proyecto y pasos para empezar.
 - models/: modelos guardados
 - reports/: métricas y gráficos
 
+Link: https://mrspain2104.github.io/credit_scoring_machine_learning/notebooks/01_introduction.html
