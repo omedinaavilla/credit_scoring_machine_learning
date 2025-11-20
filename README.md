@@ -1,6 +1,6 @@
 # Proyecto de Riesgo Crediticio con Machine Learning
 
-Andrés España
+Andrés España,
 Omar Medina
 
 Estructura inicial del proyecto y pasos para empezar.
